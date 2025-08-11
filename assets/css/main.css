@@ -2940,7 +2940,7 @@
 		background-image: url('../../images/bannerphotocmband4.jpg');
 		background-size: cover;
 		width: 100vw;
-		height: 300px;
+		height: auto;
 		background-position: top;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
